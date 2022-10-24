@@ -31,3 +31,5 @@
 # MENGCOMMIT FILE YANG SUDAH DIKERJAKAN KEDALAM GITHUB
 
 1. Langkah-langkahnya adalah sebagai berikut
+![img.6](GAMBAR/6.png)
+![img.7](GAMBAR/7.png)
